@@ -1,0 +1,146 @@
+{
+	"song": {
+		"events": [
+			[
+				22700,
+				[
+					[
+						"Change Scroll Speed",
+						" 2",
+						"1"
+					]
+				]
+			],
+			[
+				23550,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfdead"
+					]
+				]
+			],
+			[
+				23566.6666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"picoblue"
+					]
+				]
+			],
+			[
+				23600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"crazybf"
+					]
+				]
+			],
+			[
+				103400,
+				[
+					[
+						"Add Camera Zoom",
+						"Default: 0.015",
+						"Default 0.03"
+					]
+				]
+			],
+			[
+				107200,
+				[
+					[
+						"Add Camera Zoom",
+						"Default: 0.030",
+						"Default 0.06"
+					]
+				]
+			],
+			[
+				110900,
+				[
+					[
+						"Add Camera Zoom",
+						"Default: 0.50",
+						"Default: 0.10"
+					]
+				]
+			],
+			[
+				114750,
+				[
+					[
+						"Add Camera Zoom",
+						"Default: 5",
+						"Default: 0.10"
+					]
+				]
+			],
+			[
+				117200,
+				[
+					[
+						"Add Camera Zoom",
+						"Default: -1",
+						"  "
+					]
+				]
+			],
+			[
+				117300,
+				[
+					[
+						"Play Animation",
+						"picoend",
+						"bf"
+					]
+				]
+			],
+			[
+				117700,
+				[
+					[
+						"Play Animation",
+						"end",
+						"dad"
+					]
+				]
+			],
+			[
+				118341.666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"invis"
+					]
+				]
+			],
+			[
+				118350,
+				[
+					[
+						"Change Character",
+						"dad",
+						"blackscreen"
+					]
+				]
+			],
+			[
+				118400,
+				[
+					[
+						"Screen Shake",
+						"1, 0.04",
+						"1, 0.02"
+					]
+				]
+			]
+		]
+	}
+}
