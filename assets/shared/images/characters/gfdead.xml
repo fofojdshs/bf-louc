@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfdead.png">
+<SubTexture name="gfdead idle0000" x="0" y="0" width="1031" height="365" frameX="-706" frameY="-767" frameWidth="2440" frameHeight="1560" />
+</TextureAtlas>
