@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="picoshocked.png">
+<SubTexture name="picoshocked idle0000" x="0" y="0" width="2000" height="2000" frameX="0" frameY="0" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="picoshocked idle0001" x="0" y="0" width="2000" height="2000" frameX="0" frameY="0" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="picoshocked idle0002" x="0" y="0" width="2000" height="2000" frameX="0" frameY="0" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="picoshocked idle0003" x="0" y="0" width="2000" height="2000" frameX="0" frameY="0" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="picoshocked idle0004" x="2000" y="0" width="2000" height="2000" frameX="0" frameY="0" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="picoshocked idle0005" x="2000" y="0" width="2000" height="2000" frameX="0" frameY="0" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="picoshocked idle0006" x="2000" y="0" width="2000" height="2000" frameX="0" frameY="0" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="picoshocked idle0007" x="2000" y="0" width="2000" height="2000" frameX="0" frameY="0" frameWidth="2000" frameHeight="2000" />
+</TextureAtlas>
